@@ -3,10 +3,10 @@
 makecode I2C OLED 128x64 extension for micro:bit.  
 
 Part of the drive base on fizban99's microbit OLED driver:  
-https://github.com/fizban99/microbit_ssd1306  
+https://github.com/rituraj-rautela1/OLED12864_I2C
 
-Author: shaoziyang  
-Date:   2018.Mar  
+Author: SB-Components  
+Date:   2019/July  
 
 ![](oled.png)  
   
@@ -15,7 +15,7 @@ Date:   2018.Mar
 
 open your microbit makecode project, in Extension, paste  
 
-https://github.com/makecode-extensions/OLED12864_I2C  
+https://github.com/rituraj-rautela1/OLED12864_I2C
 
 to search box then search, and click to add.  
 
@@ -104,17 +104,11 @@ draw a rectangle.
 
 ![](demo.png)  
 
-
-
-## License
-
-MIT
-
-Copyright (c) 2018, microbit/micropython Chinese community  
+ 
 
 ## Supported targets
 
 * for PXT/microbit
 
 
-[From microbit/micropython Chinese community](http://www.micropython.org.cn)
+[From SB-Components](https://shop.sb-components.co.uk/)
