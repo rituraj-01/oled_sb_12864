@@ -1,6 +1,7 @@
 {
-  "oled_sb": {
+  "Oled_SB": {
     "visual": {
+      "image": "parts/OLED12864_I2C.svg",
       "width": 82,
       "height": 82,
       "pinDistance": 7.2,
