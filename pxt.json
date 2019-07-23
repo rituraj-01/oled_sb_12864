@@ -2,14 +2,13 @@
     "name": "Oled_SB",
     "version": "1.5.0",
     "description": "makecode I2C OLED 128 x 64 extension for micro:bit",
-    "license": "MIT",
     "dependencies": {
         "core": "*"
     },
     "files": [
         "README.md",
         "pxtparts.json",
-        "oled_sb.ts",
+        "oled_I2C.ts",
     ],
     "testFiles": [
         "test.ts"
