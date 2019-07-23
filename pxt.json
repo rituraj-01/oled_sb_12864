@@ -8,7 +8,7 @@
     "files": [
         "README.md",
         "pxtparts.json",
-        "oled_I2C.ts",
+        "oled_sb_12864.ts",
     ],
     "testFiles": [
         "test.ts"
