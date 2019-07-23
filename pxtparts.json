@@ -26,7 +26,7 @@
     "numberOfPins": 4,
     "instantiation": {
       "kind": "function",
-      "fullyQualifiedName": "OLED12864_I2C.pixel,OLED12864_I2C.showString,OLED12864_I2C.showNumber,OLED12864_I2C.hline,OLED12864_I2C.vline,OLED12864_I2C.rect,OLED12864_I2C.invert,OLED12864_I2C.draw,OLED12864_I2C.clear,OLED12864_I2C.on,OLED12864_I2C.off,OLED12864_I2C.zoom,OLED12864_I2C.init",
+      "fullyQualifiedName": "oled_sb_12864.pixel,oled_sb_12864.showString,oled_sb_12864.showNumber,oled_sb_12864.hline,oled_sb_12864.vline,oled_sb_12864.rect,oled_sb_12864.invert,oled_sb_12864.draw,oled_sb_12864.clear,oled_sb_12864.on,oled_sb_12864.off,oled_sb_12864.zoom,oled_sb_12864.init",
       "argumentRoles": [{
                     "pinInstantiationIdx": 0
                 }]
